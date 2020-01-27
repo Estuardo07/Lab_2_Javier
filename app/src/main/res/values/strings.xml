@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fit App</string>
+    <string name="counter">0</string>
+    <string name="round">ROUND</string>
+    <string name="restart">RESTART</string>
+    <string name="trophie">Trophie</string>
+    <string name="message1">Faltan 10 vueltas para el objetivo</string>
+    <string name="message2">Felicidades</string>
+    <string name="diez">10</string>
+</resources>
